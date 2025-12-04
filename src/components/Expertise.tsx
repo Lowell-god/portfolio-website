@@ -11,7 +11,6 @@ const labelsFirst = [
     "TypeScript",
     "JavaScript",
     "HTML5",
-    "CSS3",
     "SASS",
     "Flask",
     "Node.js",
