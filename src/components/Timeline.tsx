@@ -21,7 +21,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Full Stack AI Developer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dropbox</h4>
+            <h4 className="vertical-timeline-element-subtitle">Offshorly</h4>
             <p>
               Multi-Agent System Development, LLM-Finetuning, Prompt Engineering Optimization, Retrieval-augmented generation
             </p>
@@ -33,7 +33,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Senior Anayst | Software & AI Developer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Accenture Philippines</h4>
+            <h4 className="vertical-timeline-element-subtitle">Dropbox</h4>
             <p>
               Project Management, Natural Language Processing Service, Machine Learning Pipeline Development
             </p>
